@@ -1,6 +1,6 @@
 {
   "name": "urlsafe-base64-native",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Native implementation of urlsafe base 64.",
   "main": "index.js",
   "gypfile": true,
@@ -9,6 +9,7 @@
   },
   "author": "Noctember",
   "license": "BSD-3-Clause",
+  "repository": "https://github.com/Noctember/urlsafe-base64-native",
   "devDependencies": {
     "node-gyp": "^7.1.2"
   },
